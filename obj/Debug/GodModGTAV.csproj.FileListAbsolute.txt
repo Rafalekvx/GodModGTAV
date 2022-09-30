@@ -1,0 +1,9 @@
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\bin\Debug\GodModGTAV.dll
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\bin\Debug\GodModGTAV.pdb
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\obj\Debug\GodModGTAV.csproj.AssemblyReference.cache
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\obj\Debug\GodModGTAV.csproj.CoreCompileInputs.cache
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\obj\Debug\GodModGTAV.csproj.CopyComplete
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\obj\Debug\GodModGTAV.dll
+C:\Users\Rafalek\source\repos\GodModGTAV\GodModGTAV\obj\Debug\GodModGTAV.pdb
